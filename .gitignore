@@ -1,4 +1,8 @@
-modelo.xlsx
-error_datos.xlsx
 
+# Logs and databases #
+######################
+*.xlsx
+
+
+*
 
